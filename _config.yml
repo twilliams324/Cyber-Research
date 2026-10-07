@@ -14,7 +14,7 @@ theme: jekyll-theme-midnight
 # This must match your repository name, with a slash in front.
 # Your repo should be named cyber-research. If you named it something else,
 # change it here (for example "/my-other-name").
-baseurl: "/cyber-research"
+baseurl: "/Cyber-Research"
 
 # Don't change anything below this line.
 show_downloads: false
